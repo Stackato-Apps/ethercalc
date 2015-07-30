@@ -1,0 +1,6 @@
+applications:
+- name: ethercalc
+  mem: 256M
+  services:
+    ${name}-db:
+      type: redis

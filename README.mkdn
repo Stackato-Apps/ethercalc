@@ -15,6 +15,12 @@
     * [Socialtext](http://www.socialtext.com/)
     * [Drupal](https://drupal.org/project/sheetnode)
 
+## Deploying on Stackato
+
+```
+stackato push -n
+```
+
 ## Installation
 
 For global installation (may need root)

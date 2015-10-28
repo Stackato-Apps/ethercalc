@@ -15,7 +15,7 @@
     * [Socialtext](http://www.socialtext.com/)
     * [Drupal](https://drupal.org/project/sheetnode)
 
-## Deploying on Stackato
+## Deploying on HPE Helion Stackato
 
 ```
 stackato push -n
